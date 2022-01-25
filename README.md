@@ -7,7 +7,7 @@ O objetivo deste projeto é simular uma situação de negócio, onde a gerência
 1) Quais são os clientes com mais compras?
 2) Quais produtos estão com melhor desempenho?
 3) Nos Estados Unidos, onde estão concentradas as vendas?
-4) Montar um KPI comparativo entre as vendas os gastos da empresa.
+4) Montar um KPI comparativo entre as vendas e os gastos da empresa.
 5) Quais são as categorias de produtos com maior expressão para o negócio?
 
 O período de tempo a ser analisado deverá ter início em 2019.
