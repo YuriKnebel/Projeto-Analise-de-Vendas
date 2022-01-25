@@ -95,8 +95,10 @@ ORDER BY
   ````
 ## Dashboard Power BI:
 
+Para acessar o dashboard interativo no Power BI é preciso abrir o seguinte arquivo: [analise_vendas.pbix](https://github.com/YuriKnebel/Projeto-Analise-de-Vendas/blob/main/Dashboard-Power-BI/analise_vendas.pbix)
+
 Abaixo está a imagem do dashboard final:
 
 ![alt text](https://github.com/YuriKnebel/Projeto-Analise-de-Vendas/blob/main/Dashboard-Power-BI/screenshot_dashboard.png)
 
-Para acessar o dashboard interativo é preciso abrir o seguinte arquivo: [analise_vendas.pbix](https://github.com/YuriKnebel/Projeto-Analise-de-Vendas/blob/main/Dashboard-Power-BI/analise_vendas.pbix)
+
