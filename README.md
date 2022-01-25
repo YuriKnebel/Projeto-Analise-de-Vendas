@@ -95,5 +95,8 @@ ORDER BY
   ````
 ## Dashboard Power BI:
 
-O arquivo do Dashboard (.pbix) pode ser acessado neste projeto.
-Abaixo está a imagem estática do dashboard:
+Abaixo está a imagem do dashboard final:
+
+![alt text](https://github.com/YuriKnebel/Projeto-Analise-de-Vendas/blob/main/Dashboard-Power-BI/screenshot_dashboard.png)
+
+Para acessar o dashboard interativo é preciso abrir o arquivo 
