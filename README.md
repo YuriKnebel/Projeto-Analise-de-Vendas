@@ -11,7 +11,7 @@ O objetivo deste projeto é simular uma situação de negócio, onde a gerência
 5) Quais são as categorias de produtos com maior expressão para o negócio?
 
 O período de tempo a ser analisado deverá ter início em 2019.
-Para comparação entre vendas e gastos foi fornecida uma tabela de gastos totais da empresa.
+Para comparação entre vendas e gastos foi fornecida uma [tabela de gastos](https://github.com/YuriKnebel/Projeto-Analise-de-Vendas/blob/main/Arquivos-Adicionais/SalesExpenses.xlsx) da empresa.
 
 ## Seleção e filtragem de dados com SQL Server
 
