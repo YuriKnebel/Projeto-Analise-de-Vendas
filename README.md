@@ -50,7 +50,7 @@ SELECT
 FROM 
 	AdventureWorksDW2019.dbo.DimCustomer as c
 	LEFT JOIN dbo.dimgeography AS g ON g.geographykey = c.geographykey 
-        -- utilização do LEFT JOIN para que o atributo cidade pudesse ser utilizada nesta tabela
+        -- utilização do LEFT JOIN para que o atributo cidade pudesse ser utilizado nesta tabela
 ORDER BY 
 	CustomerKey ASC
 ````
